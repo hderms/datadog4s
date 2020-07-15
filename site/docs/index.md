@@ -31,7 +31,7 @@ Or pick and choose from the available packages:
 | `"com.avast.cloud" %% "datadog4s-jvm" % "@VERSION@"`    | support for monitoring JVM itself                 |
 | `"com.avast.cloud" %% "datadog4s-http4s" % "@VERSION@"` | monitoring support for [http4s][http4s] framework |
 
-## Comaptibility
+## Compatibility
 Datadog4s is currently released for both scala 2.12 and scala 2.13. It is using following versions of libraries:
 
 |   library   |      2.12 version       |      2.13 version       |
